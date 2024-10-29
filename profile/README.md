@@ -25,10 +25,10 @@
 
 ### 快速了解eTest
 
-[官网](https://alltheblue.github.io/docs/#/)  
-[国内镜像](https://xflihaibo.gitee.io/e-test/#/)  
-[视频教程](https://space.bilibili.com/668865078/channel/collectiondetail?sid=2371186)  
-[文章专栏](https://juejin.cn/column/7208921659078754359) 
+[官网](https://alltheblue.github.io/docs/#/) 
+[国内镜像](https://xflihaibo.gitee.io/e-test/#/) 
+[视频教程](https://space.bilibili.com/668865078/channel/collectiondetail?sid=2371186) 
+[文章专栏](https://juejin.cn/column/7208921659078754359)
 
  ### 计划
 
