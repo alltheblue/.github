@@ -1,7 +1,7 @@
 ## hi there 👋
 
 
- <img src="./profile/img/logo.jpg" alt="eTest" width="200"  style="margin:20px 0 40px"/>
+ <img src="./img/logo.jpg" alt="eTest" width="200"  style="margin:20px 0 40px"/>
 
 欢迎大家来到eTest社区 ,目前我们还是一个刚刚成长的团队，有很多不足需要成长的地方，我们会继续努力，为大家带来更加稳定的自动化测试工具，开放新的自动化测试功能，满足大家不同的测试场景，感谢大家支持
 
