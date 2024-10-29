@@ -21,7 +21,7 @@
 
 添加开发者微信，进群和小伙伴一起探索eTest,学习不在孤单，如果你有什么好的建议，或者在使用过程需要帮忙也可以加入，我们有专门的对接人，为你提供帮助，解决你在使用过程遇到的问题
 
- <img src="./profile/img/wx.jpg" alt="联系我们" width="200"  style="margin:20px 0 40px"/>
+ <img src="./img/wx.jpg" alt="联系我们" width="200"  style="margin:20px 0 40px"/>
 
 ### 快速了解eTest
 
