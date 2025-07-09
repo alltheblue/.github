@@ -26,11 +26,12 @@
 ### 快速了解eTest
 
 [官网](https://alltheblue.github.io/docs/#/) 
-[国内镜像](https://xflihaibo.gitee.io/e-test/#/) 
 [视频教程](https://space.bilibili.com/668865078/channel/collectiondetail?sid=2371186) 
 [文章专栏](https://juejin.cn/column/7208921659078754359)
 
  ### 计划
-
-
+ 1. 稳定现有工具ete的支持，提升稳定性、优化运行时间
+ 2. 打通接口自动化测试、压力测试等
+ 3. 服务端部署，支持数据共享，团队协作
+ 4. 引入AI agent 支持，提升测试自动化效率，更加智能化
 
